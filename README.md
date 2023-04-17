@@ -11,7 +11,7 @@ npm start
 
 ## Usage
 
-The test [website](https:/) allows you to view the test README used for submission ![Web1](./assets/images/Web1.PNG)
+The test [website](https://thawing-fortress-54758.herokuapp.com/) allows you to view the test README used for submission ![Web1](./assets/images/Web1.PNG)
 
 You can look through the files to check out my notes PWA app!
 
